@@ -1,4 +1,4 @@
-![Project cover photo](./project.png.png)
+![Project cover photo](./project.png)
 
 # 🧮 React Calculator
 
