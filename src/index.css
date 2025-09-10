@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@font-face {
+  font-family: Digital7;
+  src: url(./assets/digital-7.ttf);
+}
