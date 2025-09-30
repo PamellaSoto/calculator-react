@@ -22,8 +22,8 @@ All modules can be used **standalone**, but they were designed to also work toge
 
 
 ## 📂 Other modules from Modular Utils
-- []()
-- []()
+- [⭐ Github Favorites](https://github.com/PamellaSoto/modular-task-list)
+- [📝 Task List](https://github.com/PamellaSoto/modular-task-list)
 
 
 ## ✅ Checklist
